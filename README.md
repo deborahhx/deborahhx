@@ -19,7 +19,7 @@
 <div> 
   
   <a href="https://instagram.com/she_is_like_a_cat_in_the_dark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23FF69B4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:deborahhwr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:deborahhwr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/d%C3%A9borah-soares-093751205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

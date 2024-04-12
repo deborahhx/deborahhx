@@ -1,4 +1,4 @@
-- ### Hello there! 💞 I'm Deborah! 
+ ### Hello there! 💞 I'm Deborah! 
 
 🌸 Welcome to my GitHub profile! 🌸
 

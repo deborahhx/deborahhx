@@ -15,16 +15,6 @@ I spend my free time learning Python, Java, and JavaScript, exploring secure sys
 
 ---
 
-## Contact  
-
-<p align="left">
-  <a href="mailto:deborahhwr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/d%C3%A9borah-soares-093751205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/she_is_like_a_cat_in_the_dark/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
 ## Tech Stack  
 
 <p align="left">

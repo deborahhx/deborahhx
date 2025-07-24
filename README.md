@@ -1,6 +1,4 @@
 
-## Cybersecurity & Software Development  
-
 This is just a hobby. 
 ---
 

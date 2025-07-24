@@ -2,8 +2,6 @@
 ## Cybersecurity & Software Development  
 
 This is just a hobby. 
-I spend my free time learning Python, Java, and JavaScript, exploring secure systems, privacy topics like LGPD, and how things break (and get fixed).  
-
 ---
 
 ## Technologies & Skills  

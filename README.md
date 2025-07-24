@@ -2,16 +2,17 @@
 
 ## Cybersecurity & Software Development  
 
-Passionate about cybersecurity, software development, and problem-solving. Currently focused on Python, Java, and JavaScript, continuously improving my technical skills and deepening my understanding of secure systems, privacy regulations (LGPD), and security research.
+This is just a hobby. 
+I spend my free time learning Python, Java, and JavaScript, exploring secure systems, privacy topics like LGPD, and how things break (and get fixed).  
 
 ---
 
 ## Technologies & Skills  
 
-- **Programming Languages**: Python, Java, JavaScript
+- **Programming Languages**: Python, Java, JavaScript  
 - **Web Technologies**: HTML, CSS  
 - **Security**: Cybersecurity fundamentals, secure coding practices, LGPD, data protection  
- 
+
 ---
 
 ## Contact  
@@ -29,7 +30,7 @@ Passionate about cybersecurity, software development, and problem-solving. Curre
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </p>

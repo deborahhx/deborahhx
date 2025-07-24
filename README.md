@@ -1,4 +1,3 @@
-# Déborah Soares  
 
 ## Cybersecurity & Software Development  
 
